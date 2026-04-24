@@ -1,0 +1,115 @@
+# 🚨 Incident Response Plan Template
+
+> Template by codex-regex | pm-meets-sec
+
+-----
+
+## 📌 Document Info
+
+|Field         |Details          |
+|--------------|-----------------|
+|Document Owner|[Your Name]      |
+|Last Updated  |[Date]           |
+|Version       |1.0              |
+|Classification|Internal Use Only|
+
+-----
+
+## 🎯 Purpose
+
+This document outlines the step-by-step process for identifying, containing, eradicating, and recovering from a security incident.
+
+-----
+
+## 📊 Incident Severity Levels
+
+|Level|Name    |Description                                 |Response Time  |
+|-----|--------|--------------------------------------------|---------------|
+|1    |Critical|Active breach, data exfiltration, ransomware|Immediate      |
+|2    |High    |Suspected compromise, malware detected      |Within 1 hour  |
+|3    |Medium  |Policy violation, suspicious activity       |Within 4 hours |
+|4    |Low     |Minor anomaly, false positive investigation |Within 24 hours|
+
+-----
+
+## 🔄 Response Phases
+
+### Phase 1 — Preparation
+
+- [ ] Incident response team identified and trained
+- [ ] Communication channels established
+- [ ] Tools and access confirmed
+- [ ] Playbooks documented
+
+### Phase 2 — Identification
+
+- [ ] Alert or report received
+- [ ] Initial triage performed
+- [ ] Severity level assigned
+- [ ] Incident ticket created
+- [ ] Stakeholders notified
+
+**Key Questions:**
+
+- What systems are affected?
+- When was it first detected?
+- How was it detected?
+- Is it still ongoing?
+
+### Phase 3 — Containment
+
+- [ ] Short-term containment applied (isolate affected systems)
+- [ ] Evidence preserved (logs, snapshots)
+- [ ] Long-term containment strategy defined
+- [ ] Business impact assessed
+
+### Phase 4 — Eradication
+
+- [ ] Root cause identified
+- [ ] Malware/threat removed
+- [ ] Vulnerabilities patched
+- [ ] Systems hardened
+
+### Phase 5 — Recovery
+
+- [ ] Systems restored from clean backups
+- [ ] Functionality verified
+- [ ] Monitoring increased
+- [ ] Stakeholders updated
+
+### Phase 6 — Lessons Learned
+
+- [ ] Post-incident review scheduled (within 2 weeks)
+- [ ] Timeline documented
+- [ ] What went well?
+- [ ] What needs improvement?
+- [ ] Process updates made
+
+-----
+
+## 📞 Contacts
+
+|Role            |Name  |Contact      |
+|----------------|------|-------------|
+|Incident Lead   |[Name]|[Email/Phone]|
+|Security Manager|[Name]|[Email/Phone]|
+|Legal/Compliance|[Name]|[Email/Phone]|
+|Communications  |[Name]|[Email/Phone]|
+
+-----
+
+## 📝 Incident Log
+
+|Field           |Details      |
+|----------------|-------------|
+|Incident ID     |INC-[NUMBER] |
+|Date Detected   |[Date]       |
+|Date Resolved   |[Date]       |
+|Severity        |[1-4]        |
+|Systems Affected|[List]       |
+|Root Cause      |[Description]|
+|Actions Taken   |[Summary]    |
+
+-----
+
+*Template by codex-regex | github.com/codex-regex/pm-meets-sec*
