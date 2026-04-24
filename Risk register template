@@ -1,0 +1,82 @@
+# ⚠️ Security Risk Register Template
+
+> Template by codex-regex | pm-meets-sec
+
+-----
+
+## 📌 Document Info
+
+|Field           |Details    |
+|----------------|-----------|
+|Document Owner  |[Your Name]|
+|Last Updated    |[Date]     |
+|Review Frequency|Monthly    |
+
+-----
+
+## 📊 Risk Scoring Guide
+
+**Likelihood**
+
+|Score|Level         |Meaning                     |
+|-----|--------------|----------------------------|
+|1    |Rare          |Unlikely to occur           |
+|2    |Unlikely      |Could occur but not expected|
+|3    |Possible      |Might occur at some point   |
+|4    |Likely        |Will probably occur         |
+|5    |Almost Certain|Expected to occur           |
+
+**Impact**
+
+|Score|Level     |Meaning            |
+|-----|----------|-------------------|
+|1    |Negligible|Minimal effect     |
+|2    |Minor     |Small disruption   |
+|3    |Moderate  |Noticeable impact  |
+|4    |Major     |Significant damage |
+|5    |Critical  |Catastrophic impact|
+
+**Risk Score = Likelihood × Impact**
+
+|Score|Rating    |
+|-----|----------|
+|1–4  |🟢 Low     |
+|5–9  |🟡 Medium  |
+|10–19|🟠 High    |
+|20–25|🔴 Critical|
+
+-----
+
+## 📋 Risk Register
+
+|ID   |Risk Description                |Category  |Likelihood|Impact|Score  |Rating  |Owner        |Mitigation                      |Status     |
+|-----|--------------------------------|----------|----------|------|-------|--------|-------------|--------------------------------|-----------|
+|R-001|Phishing attack on staff        |Human     |4         |4     |16     |🟠 High  |Security Team|Security awareness training     |Open       |
+|R-002|Unpatched software vulnerability|Technical |3         |5     |15     |🟠 High  |IT Team      |Monthly patching schedule       |In Progress|
+|R-003|Weak password policy            |Technical |4         |3     |12     |🟠 High  |IT Team      |Enforce MFA and password manager|Open       |
+|R-004|Insider threat                  |Human     |2         |5     |10     |🟠 High  |HR + Security|Access controls, monitoring     |Open       |
+|R-005|Data breach via third party     |Vendor    |2         |5     |10     |🟠 High  |Compliance   |Vendor security assessments     |Open       |
+|R-006|[Add your risk here]            |[Category]|[1-5]     |[1-5] |[Score]|[Rating]|[Owner]      |[Mitigation]                    |[Status]   |
+
+-----
+
+## 📈 Risk Summary
+
+|Rating    |Count|
+|----------|-----|
+|🔴 Critical|0    |
+|🟠 High    |5    |
+|🟡 Medium  |0    |
+|🟢 Low     |0    |
+
+-----
+
+## 🔄 Review History
+
+|Date  |Reviewed By|Changes Made           |
+|------|-----------|-----------------------|
+|[Date]|[Name]     |Initial version created|
+
+-----
+
+*Template by codex-regex | github.com/codex-regex/pm-meets-sec*
