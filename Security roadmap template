@@ -1,0 +1,108 @@
+# 🗺️ 90-Day Security Roadmap Template
+
+> Template by codex-regex | pm-meets-sec
+
+-----
+
+## 📌 Document Info
+
+|Field         |Details                            |
+|--------------|-----------------------------------|
+|Document Owner|[Your Name]                        |
+|Start Date    |[Date]                             |
+|End Date      |[Date + 90 days]                   |
+|Goal          |Build foundational security posture|
+
+-----
+
+## 🎯 Overall Objective
+
+> *[Write your security goal in one sentence — e.g. “Establish a baseline security posture for the organization by identifying key risks, implementing core controls, and building team awareness.”]*
+
+-----
+
+## 📅 Phase 1 — Days 1–30: Discover & Assess
+
+**Theme:** Understand the current state before changing anything.
+
+### Goals
+
+- [ ] Inventory all assets (systems, software, data)
+- [ ] Identify top 10 risks and document in risk register
+- [ ] Review existing security policies (if any)
+- [ ] Map out who has access to what
+- [ ] Conduct initial vulnerability scan
+
+### Key Deliverables
+
+|Deliverable         |Due   |Owner |Status     |
+|--------------------|------|------|-----------|
+|Asset inventory     |Day 15|[Name]|Not Started|
+|Risk register v1    |Day 25|[Name]|Not Started|
+|Current state report|Day 30|[Name]|Not Started|
+
+-----
+
+## 📅 Phase 2 — Days 31–60: Plan & Prioritize
+
+**Theme:** Turn findings into an actionable plan.
+
+### Goals
+
+- [ ] Prioritize top risks from Phase 1
+- [ ] Draft or update security policies
+- [ ] Plan quick wins (MFA, patching, password policy)
+- [ ] Identify tools needed
+- [ ] Get stakeholder buy-in
+
+### Key Deliverables
+
+|Deliverable             |Due   |Owner |Status     |
+|------------------------|------|------|-----------|
+|Prioritized risk plan   |Day 45|[Name]|Not Started|
+|Security policy draft   |Day 55|[Name]|Not Started|
+|Stakeholder presentation|Day 60|[Name]|Not Started|
+
+-----
+
+## 📅 Phase 3 — Days 61–90: Implement & Monitor
+
+**Theme:** Execute on the plan and establish ongoing monitoring.
+
+### Goals
+
+- [ ] Implement quick wins from Phase 2
+- [ ] Roll out security awareness training
+- [ ] Set up basic monitoring and alerting
+- [ ] Document everything
+- [ ] Schedule quarterly review
+
+### Key Deliverables
+
+|Deliverable           |Due   |Owner |Status     |
+|----------------------|------|------|-----------|
+|MFA enabled across org|Day 70|[Name]|Not Started|
+|Training completed    |Day 80|[Name]|Not Started|
+|90-day summary report |Day 90|[Name]|Not Started|
+
+-----
+
+## 📊 Progress Tracker
+
+|Phase              |Status     |% Complete|
+|-------------------|-----------|----------|
+|Phase 1 — Discover |Not Started|0%        |
+|Phase 2 — Plan     |Not Started|0%        |
+|Phase 3 — Implement|Not Started|0%        |
+
+-----
+
+## 📝 Notes & Blockers
+
+|Date  |Note  |Blocker?|
+|------|------|--------|
+|[Date]|[Note]|Yes / No|
+
+-----
+
+*Template by codex-regex | github.com/codex-regex/pm-meets-sec*
