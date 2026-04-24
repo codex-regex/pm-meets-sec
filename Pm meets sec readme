@@ -1,0 +1,77 @@
+# 📋 pm-meets-sec
+
+> *“Security without structure is just chaos with good intentions.”*
+> — codex-regex
+
+![Status](https://img.shields.io/badge/status-actively%20building-00ff88?style=flat-square)
+![Focus](https://img.shields.io/badge/focus-security%20management-blue?style=flat-square)
+![Background](https://img.shields.io/badge/background-project%20management-purple?style=flat-square)
+
+-----
+
+## 📌 What Is This?
+
+Most people come to cybersecurity from a purely technical background.
+
+I didn’t.
+
+I came from **project management** — timelines, stakeholders, risk registers, delivery plans. And what I quickly realized is that security *needs* that structure. Badly.
+
+This repo is a collection of **templates, frameworks, and documents** that bridge the gap between security and project management. Free to use, adapt, and build on.
+
+-----
+
+## 📂 What’s Inside
+
+```
+pm-meets-sec/
+│
+├── 📁 incident-response/
+│   └── incident-response-plan.md      # Step-by-step IR template
+│
+├── 📁 risk-management/
+│   └── risk-register-template.md      # Track and score risks
+│
+├── 📁 security-roadmap/
+│   └── security-roadmap-template.md   # 90-day security plan
+│
+├── 📁 meeting-templates/
+│   └── security-standup-template.md   # Daily security standup
+│
+└── README.md
+```
+
+-----
+
+## 🗂️ Templates Available
+
+|Template                |What It’s For                                     |
+|------------------------|--------------------------------------------------|
+|🚨 Incident Response Plan|Step-by-step guide for handling security incidents|
+|⚠️ Risk Register         |Track, score, and prioritize security risks       |
+|🗺️ Security Roadmap      |90-day plan for building security posture         |
+|📅 Security Standup      |Daily team sync template for security teams       |
+
+-----
+
+## 💡 Why This Matters
+
+A junior analyst who can also **write a risk register**, **run an incident response plan**, and **communicate security priorities to stakeholders** is rare.
+
+That’s the goal. Technical skills + management skills = someone teams actually want to hire.
+
+-----
+
+## 🤝 Use These Freely
+
+All templates are free to use, modify, and share. If they help you — great. That’s the point.
+
+-----
+
+## 📬 Find Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-codex--regex-181717?style=flat-square&logo=github)](https://github.com/codex-regex)
+
+-----
+
+*Where project management meets cybersecurity. Built by someone who lived in both worlds.* 🔐
